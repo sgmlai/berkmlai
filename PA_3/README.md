@@ -2,19 +2,19 @@
 
 ## 🗃️ Folders \& Files
 
-🔗 Github Repository: https://github.com/sgmlai/berkmlai/tree/main/PA\_3
+🔗 Github Repository: https://github.com/sgmlai/berkmlai/tree/main/PA_3
 
 
 
-🔗 data: https://github.com/sgmlai/berkmlai/tree/main/PA\_3/data
+🔗 data: https://github.com/sgmlai/berkmlai/tree/main/PA_3/data
 
 
 
-🔗 README.md: https://github.com/sgmlai/berkmlai/blob/main/PA\_3/README.md
+🔗 README.md: https://github.com/sgmlai/berkmlai/blob/main/PA_3/README.md
 
 
 
-🔗 Jupyter Notebook PA\_3: https://github.com/sgmlai/berkmlai/blob/main/PA\_3/prompt\_III.ipynb
+🔗 Jupyter Notebook PA\_3: https://github.com/sgmlai/berkmlai/blob/main/PA_3/prompt_III.ipynb
 
 
 
