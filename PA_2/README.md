@@ -123,7 +123,7 @@ Best parameters for Ridge: {'alpha': 0.1}
 
 4. Model is biased towards the higher priced cars and choosing those features with more omprtance in driving price. Go back to data cleaning and remove the outliers.
 
-#### 🚀 Deployment
+#### Findings
 
 #### After revisiting the data and removing the outlier brands and priced vehicles. Below is the report for our used car dealers.
 
